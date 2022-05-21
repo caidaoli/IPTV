@@ -1,20 +1,29 @@
+### 如有源失效或建议请提Issues，帮助本项目更好地运作
+
 # m3u格式直播源
 推荐Android设备使用 GSE Smart IPTV 或 Televizo 进行观看
 
 推荐Android TV设备使用 Perfect IPTV Player 或 Tivimate 进行观看
 - M3U:https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.m3u （短网址：https://git.io/JBD0q ）
-- 中国加速M3U-1：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.m3u
-- 中国加速M3U-2：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.m3u
-- 中国加速M3U-3：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.m3u
+- 中国加速M3U-1：https://raw.iqiq.io/LiuYi0526/IPTV/master/IPTV.m3u
+- 中国加速M3U-2：https://hk1.monika.love/LiuYi0526/IPTV/master/IPTV.m3u
+- 中国加速M3U-3：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.m3u
+- 中国加速M3U-4：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.m3u
+- 中国加速M3U-5：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.m3u
 - EPG:https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide_merge.xml （短网址：https://git.io/JRtUH ）
+- 中国加速EPG-1：https://raw.iqiq.io/LiuYi0526/IPTV/EPG/guide_merge.xml
+- 中国加速EPG-2：https://hk1.monika.love/LiuYi0526/IPTV/EPG/guide_merge.xml
 
 # txt格式直播源
 推荐Android/Android TV设备使用 DIYP影音 进行观看
-- EPG:http://epg.51zmt.top:8000/api/diyp/
+- EPG-1:https://epg.112114.xyz
+- EPG-2:http://epg.51zmt.top:8000/api/diyp/
 - TXT,https://raw.githubusercontent.com/LiuYi0526/IPTV/master/IPTV.txt （短网址：https://git.io/JBD02 ）
-- 中国加速TXT-1：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.txt
-- 中国加速TXT-2：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.txt
-- 中国加速TXT-3：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.txt
+- 中国加速TXT-1：https://raw.iqiq.io/LiuYi0526/IPTV/master/IPTV.txt
+- 中国加速TXT-2：https://hk1.monika.love/LiuYi0526/IPTV/master/IPTV.txt
+- 中国加速TXT-3：https://raw.fastgit.org/LiuYi0526/IPTV/master/IPTV.txt
+- 中国加速TXT-4：https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/IPTV.txt
+- 中国加速TXT-5：https://cdn.staticaly.com/gh/LiuYi0526/IPTV/master/IPTV.txt
 
 # 使用指南
 部分直播源需要特定地区ip或翻墙才能正常播放，教育网需IPv6网络观看，[检测地址](http://test-ipv6.com/)
@@ -37,3 +46,6 @@ GitHub：[主页](https://github.com/LiuYi0526/IPTV)  [文件打包](https://git
 
 ### 关于PLTV回看 
 部分带PLTV的链接支持7天回看，支持回看的播放器可以直接调用，不支持的也可以通过自定义来实现回看，不过要自己查一下节目单。在地址最后加上?playseek=开始时间-结束时间 (如?playseek=20200722222222-20200722223222代表2020年7月22日22时22分22秒之后的10分钟片段)，再将地址里的PLTV改成TVOD即可播放 例:[直播格式](http://183.207.248.108/ott.js.chinamobile.com/PLTV/3/224/3221227581/index.m3u8) [回看格式](http://183.207.248.108/ott.js.chinamobile.com/TVOD/3/224/3221227581/index.m3u8?playseek=20200722222222-20200722223222)
+
+### 直播源均来自网络，仅供学习交流使用，未经版权方同意不得商用，因私自商用而引发的问题本人概不负责，感谢理解！
+### 如本仓库中部分内容存在侵权行为，请留言联系我删除。
